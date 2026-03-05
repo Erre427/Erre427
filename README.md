@@ -1,16 +1,55 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Marcos Daniel (@Erre427)
 
-<!--
-**Erre427/Erre427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Sistemas Computacionales** radicado en Tijuana, México. Me apasiona el desarrollo de software, la creación de herramientas funcionales y la gestión de servidores y bases de datos. 
 
-Here are some ideas to get you started:
+Actualmente me enfoco en el desarrollo de aplicaciones de escritorio y sistemas integrales, explorando constantemente nuevas tecnologías para el despliegue de servicios y el self-hosting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mí
+- 🎓 Estudiando Ingeniería en Sistemas Computacionales.
+- 💻 Desarrollando **PrintTrack**, un sistema integral en C# y MySQL.
+- ⚙️ Experiencia en administración de entornos self-hosted (Ubuntu, Docker, Portainer).
+- 🤝 Colaborando en la integración de un sistema de tutorías/asesorías para plataformas institucionales.
+- 🎨 Habilidades complementarias en diseño gráfico (Illustrator, Photoshop) para la creación de interfaces y branding.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes y Frameworks:** ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white)
+
+**Bases de Datos y Entornos:** ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Diseño y Multimedia:** ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+---
+
+### 🚀 Proyectos Destacados
+
+* **PrintTrack:** Sistema de gestión desarrollado en C# (Windows Forms) conectado a una base de datos MySQL.
+* **Detector de Residuos Industriales:** Sistema tipo compilador desarrollado como proyecto para la materia de Lenguajes y Autómatas I.
+* **Sistema de Tutorías:** Proyecto colaborativo para integrar módulos de asesoría académica en una plataforma institucional.
+* **Emulador 8-bit:** Programa en lenguaje ensamblador para la detección de números pares e impares.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas de Erre427](https://github-readme-stats.vercel.app/api?username=Erre427&show_icons=true&theme=tokyonight)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Erre427&layout=compact&theme=tokyonight)
+
+---
+
+### 🏙️ Mi GitCity
+
+<div align="center">
+  <img src="./ruta-a-tu-imagen-de-gitcity.png" alt="Mi GitCity" width="100%" />
+</div>
+
+---

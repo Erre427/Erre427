@@ -49,7 +49,7 @@ Actualmente me enfoco en el desarrollo de aplicaciones de escritorio y sistemas 
 ### 🏙️ Mi GitCity
 
 <div align="center">
-  <img src="./ruta-a-tu-imagen-de-gitcity.png" alt="Mi GitCity" width="100%" />
+  <img src="./gitcity-erre427-landscape.png" alt="Mi GitCity" width="100%" />
 </div>
 
 ---
